@@ -191,13 +191,14 @@ display: none;
     display: block;
     min-height: 37px;
     min-width: 127px;
-    width: 18%;
-    height: 5%;
-    margin-top: -6%;
+    width: 10px;
+    height: 30px;
+    margin-top: -35px;
     margin-left: -87%;
     position: fixed;
     z-index: 5;
 }
+
 	.menu__body{
 	margin: -15% 0 0 0;
 		position: fixed;
