@@ -180,7 +180,7 @@ position: fixed;
 		left: 0;
 		padding: 60px 50px 20% 90%;
 		z-index: 5;
-		padding-bottom: 1%;
+		padding-bottom: 5%;
 		width: 100%;
 		background-color: #fff;
 }
@@ -200,7 +200,7 @@ display: none;
 }
 
 	.menu__body{
-	margin: -15% 0 0 0;
+	margin: -17% 0 0 0;
 		position: fixed;
 		top: 0;
 		left:1000%;
