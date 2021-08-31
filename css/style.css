@@ -119,7 +119,7 @@ text-align: center;
 .intro{
 	height: 640px;
 }
-body{
+body._lock{
 	overflow: hidden;
 }
 .intro__image {
